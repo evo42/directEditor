@@ -1,8 +1,10 @@
 directEditor
 ============
 
-jQuery UI editors for the http://directEdit.co project. 
+jQuery UI editors for the http://directEdit.co project.
+
 -directTextEditor: lightweight rich text editor (contenteditable - no iframe)
+
 -directImageEditor: scale, crop and pan images directly in the preview
 
 Documentation on https://github.com/carloroosen/directEditor/wiki. 
